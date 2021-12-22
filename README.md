@@ -1,4 +1,4 @@
-# Ecommerce Tiendita
+# 🏪 Ecommerce Tiendita
 
 Sistema de comercio electrónico para la venta y administración de productos con MySQL.
 
